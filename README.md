@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Sparkline](https://stars.medv.io/mahedi2150/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/mahedi2150/badges.svg)]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi2150&layout=compact&theme=radical)]
