@@ -40,11 +40,10 @@ Here are some ideas to get you started:
 [![Sparkline](https://stars.medv.io/mahedi2150/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi2150&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi2150&layout=compact&theme=radical)]
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedi2150&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedi2150&theme=blue-green)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahedi2150&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahedi2150&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahedi2150&theme=react-dark)]
