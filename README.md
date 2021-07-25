@@ -37,13 +37,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Sparkline](https://stars.medv.io/mahedi2150/badges.svg)]
+![Sparkline](https://stars.medv.io/mahedi2150/badges.svg)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi2150&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedi2150&layout=compact&theme=radical)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedi2150&theme=blue-green)]
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedi2150&theme=blue-green)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahedi2150&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahedi2150&theme=react-dark)]
+
+
+
+
+
