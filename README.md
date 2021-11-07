@@ -42,7 +42,8 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
     <a href="https://app.netlify.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_netlify_icon_130354.png"/> </a>
-     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/> </a>
+     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/github.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
