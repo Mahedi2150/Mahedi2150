@@ -96,7 +96,4 @@
 <a href="https://github.com/Mahedi2150?tab=followers"><img src="https://img.shields.io/github/followers/Mahedi2150?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img align="center" alt="mahedi2150" width="40%" src="https://profile-counter.glitch.me/mahedi2150/count.svg" />
-</p>
+
