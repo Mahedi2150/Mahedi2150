@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Mahedi2150?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mahedihasanbijoy.netlify.app/)**
 
-- 📫 How to reach me **mahedi15-2150@diu.edu.bd**
+- 📫 How to reach me **mahedi.hasan8089@gmail.com**
 
 - ⚡ Fun fact **I go to the GYM very often.**
 
